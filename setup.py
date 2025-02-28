@@ -11,7 +11,6 @@ setup(
         "typer",    # CLI framework
         "rich",     # For coloured CLI output
         "logging",  # For logging the outputs
-        "shutil",
         "numpy"     # Needed for numerical operations
     ],
     entry_points={
